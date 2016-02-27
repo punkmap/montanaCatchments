@@ -1,0 +1,258 @@
+{
+
+    "Arsenic": {
+        "db": "Arsenic",
+        "field": "Arsenic",
+        "category": "impairments",
+        "title": "Arsenic Impairment",
+        "description": "Linear feet of streams listed for arsenic per 12 digit HUC.",
+        "importance": "Arsenic levels are quantified per 12 digit HUCs based on linear feet of arsenic impairment.",
+        "tech_notes": "Though linear feet of impairment may not be the most robust indicator for arsenic, the geographic data made available in the U.S. EPA 303(d) list are leveraged to highlight the the use of this technology. 12 digit HUCs are used as the target layer for cross-metric comparisson. Additional datasets can be processed to the HUC 12 dataset to satisfy demands for analysis, data display, and security.",
+        "source": "U.S. EPA 303(d) List",
+        "links": "<a href='http://water.epa.gov/scitech/datait/tools/waters/data/downloads.cfm#303(d)%20Listed%20Impaired%20Waters'>303(d) Listed Impaired Waters</a><br><a href='http://datagateway.nrcs.usda.gov/Catalog/ProductDescription/WBD.html'>Watershed Boundary Dataset</a><br><a href='http://water.epa.gov/lawsregs/lawsguidance/cwa/tmdl/overview.cfm'>Total Maximum Daily Loads (303d)</a>",
+        "style": {
+            "breaks": [
+                0,
+                40000,
+                75000
+            ],
+            "colors": [
+                "#D8F2ED",
+                "#2ca79e",
+                "#154F4A"
+            ]
+        }
+    },
+    "Cadmium": {
+        "db": "Cadmium",
+        "field": "Cadmium",
+        "category": "impairments",
+        "title": "Cadmium Impairment",
+        "description": "Linear feet of streams listed for cadmium per 12 digit HUC.",
+        "importance": "Cadmium levels are quantified per 12 digit HUCs based on linear feet of cadmium impairment.",
+        "tech_notes": "Though linear feet of impairment may not be the most robust indicator for cadmium, the geographic data made available in the U.S. EPA 303(d) list are leveraged to highlight the the use of this technology. 12 digit HUCs are used as the target layer for cross-metric comparisson. Additional datasets can be processed to the HUC 12 dataset to satisfy demands for analysis, data display, and security.",
+        "source": "U.S. EPA 303(d) List",
+        "links": "<a href='http://water.epa.gov/scitech/datait/tools/waters/data/downloads.cfm#303(d)%20Listed%20Impaired%20Waters'>303(d) Listed Impaired Waters</a><br><a href='http://datagateway.nrcs.usda.gov/Catalog/ProductDescription/WBD.html'>Watershed Boundary Dataset</a><br><a href='http://water.epa.gov/lawsregs/lawsguidance/cwa/tmdl/overview.cfm'>Total Maximum Daily Loads (303d)</a>",
+        "style": {
+            "breaks": [
+                0,
+                40000,
+                75000
+            ],
+            "colors": [
+                "#D8F2ED",
+                "#2ca79e",
+                "#154F4A"
+            ]
+        }
+    },
+    "copper": {
+        "db": "copper",
+        "field": "copper",
+        "category": "impairments",
+        "title": "Copper Impairments",
+        "description": "Linear feet of streams listed for copper per 12 digit HUC.",
+        "importance": "Copper levels are quantified per 12 digit HUCs based on linear feet of copper impairment.",
+        "tech_notes": "Though linear feet of impairment may not be the most robust indicator for copper, the geographic data made available in the U.S. EPA 303(d) list are leveraged to highlight the the use of this technology. 12 digit HUCs are used as the target layer for cross-metric comparisson. Additional datasets can be processed to the HUC 12 dataset to satisfy demands for analysis, data display, and security.",
+        "source": "U.S. EPA 303(d) List",
+        "links": "<a href='http://water.epa.gov/scitech/datait/tools/waters/data/downloads.cfm#303(d)%20Listed%20Impaired%20Waters'>303(d) Listed Impaired Waters</a><br><a href='http://datagateway.nrcs.usda.gov/Catalog/ProductDescription/WBD.html'>Watershed Boundary Dataset</a><br><a href='http://water.epa.gov/lawsregs/lawsguidance/cwa/tmdl/overview.cfm'>Total Maximum Daily Loads (303d)</a>",
+        "style": {
+            "breaks": [
+                0,
+                40000,
+                75000
+            ],
+            "colors": [
+                "#D8F2ED",
+                "#2ca79e",
+                "#154F4A"
+            ]
+        }
+    },
+    "lead": {
+        "db": "lead",
+        "field": "lead",
+        "category": "impairments",
+        "title": "Lead Impairments",
+        "description": "Linear feet of streams listed for lead per 12 digit HUC.",
+        "importance": "Lead levels are quantified per 12 digit HUCs based on linear feet of lead impairment.",
+        "tech_notes": "Though linear feet of impairment may not be the most robust indicator for lead, the geographic data made available in the U.S. EPA 303(d) list are leveraged to highlight the the use of this technology. 12 digit HUCs are used as the target layer for cross-metric comparisson. Additional datasets can be processed to the HUC 12 dataset to satisfy demands for analysis, data display, and security.",
+        "source": "U.S. EPA 303(d) List",
+        "links": "<a href='http://water.epa.gov/scitech/datait/tools/waters/data/downloads.cfm#303(d)%20Listed%20Impaired%20Waters'>303(d) Listed Impaired Waters</a><br><a href='http://datagateway.nrcs.usda.gov/Catalog/ProductDescription/WBD.html'>Watershed Boundary Dataset</a><br><a href='http://water.epa.gov/lawsregs/lawsguidance/cwa/tmdl/overview.cfm'>Total Maximum Daily Loads (303d)</a>",
+        "style": {
+            "breaks": [
+                0,
+                10000,
+                20000
+            ],
+            "colors": [
+                "#D8F2ED",
+                "#2ca79e",
+                "#154F4A"
+            ]
+        }
+    },
+    "mercury": {
+        "db": "mercury",
+        "field": "mercury",
+        "category": "impairments",
+        "title": "Mercury Impairments",
+        "description": "Linear feet of streams listed for mercury per 12 digit HUC.",
+        "importance": "Mercury levels are quantified per 12 digit HUCs based on linear feet of mercury impairment.",
+        "tech_notes": "Though linear feet of impairment may not be the most robust indicator for mercury, the geographic data made available in the U.S. EPA 303(d) list are leveraged to highlight the the use of this technology. 12 digit HUCs are used as the target layer for cross-metric comparisson. Additional datasets can be processed to the HUC 12 dataset to satisfy demands for analysis, data display, and security.",
+        "source": "U.S. EPA 303(d) List",
+        "links": "<a href='http://water.epa.gov/scitech/datait/tools/waters/data/downloads.cfm#303(d)%20Listed%20Impaired%20Waters'>303(d) Listed Impaired Waters</a><br><a href='http://datagateway.nrcs.usda.gov/Catalog/ProductDescription/WBD.html'>Watershed Boundary Dataset</a><br><a href='http://water.epa.gov/lawsregs/lawsguidance/cwa/tmdl/overview.cfm'>Total Maximum Daily Loads (303d)</a>",
+        "style": {
+            "breaks": [
+                0,
+                40000,
+                75000
+            ],
+            "colors": [
+                "#D8F2ED",
+                "#2ca79e",
+                "#154F4A"
+            ]
+        }
+    },
+    "phosph": {
+        "db": "phosph",
+        "field": "phosph",
+        "category": "impairments",
+        "title": "Phosphorous Impairments",
+        "description": "Linear feet of streams listed for phosphorous per 12 digit HUC.",
+        "importance": "Phosphorous levels are quantified per 12 digit HUCs based on linear feet of phosphorous impairment.",
+        "tech_notes": "Though linear feet of impairment may not be the most robust indicator for phosphorous, the geographic data made available in the U.S. EPA 303(d) list are leveraged to highlight the the use of this technology. 12 digit HUCs are used as the target layer for cross-metric comparisson. Additional datasets can be processed to the HUC 12 dataset to satisfy demands for analysis, data display, and security.",
+        "source": "U.S. EPA 303(d) List",
+        "links": "<a href='http://water.epa.gov/scitech/datait/tools/waters/data/downloads.cfm#303(d)%20Listed%20Impaired%20Waters'>303(d) Listed Impaired Waters</a><br><a href='http://datagateway.nrcs.usda.gov/Catalog/ProductDescription/WBD.html'>Watershed Boundary Dataset</a><br><a href='http://water.epa.gov/lawsregs/lawsguidance/cwa/tmdl/overview.cfm'>Total Maximum Daily Loads (303d)</a>",
+        "style": {
+            "breaks": [
+                0,
+                40000,
+                75000
+            ],
+            "colors": [
+                "#D8F2ED",
+                "#2ca79e",
+                "#154F4A"
+            ]
+        }
+    },
+    "sedmts": {
+        "db": "sedmts",
+        "field": "sedmts",
+        "category": "impairments",
+        "title": "Sediment Impairments",
+        "description": "Linear feet of streams listed for sediments per 12 digit HUC.",
+        "importance": "Sediment levels are quantified per 12 digit HUCs based on linear feet of sediment impairment.",
+        "tech_notes": "Though linear feet of impairment may not be the most robust indicator for sediments, the geographic data made available in the U.S. EPA 303(d) list are leveraged to highlight the the use of this technology. 12 digit HUCs are used as the target layer for cross-metric comparisson. Additional datasets can be processed to the HUC 12 dataset to satisfy demands for analysis, data display, and security.",
+        "source": "U.S. EPA 303(d) List",
+        "links": "<a href='http://water.epa.gov/scitech/datait/tools/waters/data/downloads.cfm#303(d)%20Listed%20Impaired%20Waters'>303(d) Listed Impaired Waters</a><br><a href='http://datagateway.nrcs.usda.gov/Catalog/ProductDescription/WBD.html'>Watershed Boundary Dataset</a><br><a href='http://water.epa.gov/lawsregs/lawsguidance/cwa/tmdl/overview.cfm'>Total Maximum Daily Loads (303d)</a>",
+        "style": {
+            "breaks": [
+                0,
+                40000,
+                75000
+            ],
+            "colors": [
+                "#D8F2ED",
+                "#2ca79e",
+                "#154F4A"
+            ]
+        }
+    },
+    "zinc": {
+        "db": "zinc",
+        "field": "zinc",
+        "category": "impairments",
+        "title": "Zinc Impairments",
+        "description": "Linear feet of streams listed for zinc per 12 digit HUC.",
+        "importance": "Zinc levels are quantified per 12 digit HUCs based on linear feet of zinc impairment.",
+        "tech_notes": "Though linear feet of impairment may not be the most robust indicator for zinc, the geographic data made available in the U.S. EPA 303(d) list are leveraged to highlight the the use of this technology. 12 digit HUCs are used as the target layer for cross-metric comparisson. Additional datasets can be processed to the HUC 12 dataset to satisfy demands for analysis, data display, and security.",
+        "source": "U.S. EPA 303(d) List",
+        "links": "<a href='http://water.epa.gov/scitech/datait/tools/waters/data/downloads.cfm#303(d)%20Listed%20Impaired%20Waters'>303(d) Listed Impaired Waters</a><br><a href='http://datagateway.nrcs.usda.gov/Catalog/ProductDescription/WBD.html'>Watershed Boundary Dataset</a><br><a href='http://water.epa.gov/lawsregs/lawsguidance/cwa/tmdl/overview.cfm'>Total Maximum Daily Loads (303d)</a>",
+        "style": {
+            "breaks": [
+                0,
+                15000,
+                30000
+            ],
+            "colors": [
+                "#D8F2ED",
+                "#2ca79e",
+                "#154F4A"
+            ]
+        }
+    },
+    "CC1PCT": {
+        "db": "CC1PCT",
+        "field": "CC1PCT",
+        "category": "fireconditionclasses",
+        "title": "% Coverage Fire Condition Class 1",
+        "description": "Percentage coverage of HUC defined as Fire Condition Class 1",
+        "importance": "Fire condition class is an important metric when accounting for forest and watershed health. Stand replacing forest fires can can have a transformative effect on habitat, water quality and natural resources.",
+        "tech_notes": "The data for used for this indicator was generated soley for proof of concept purposes and does not represent ground conditions.",
+        "source": "<strong>Source: No Source Data - Proof of concept purposes only.</strong>",
+        "links": "<a href='http://www.nwcg.gov/teams/wfewt/archive/message/FrccDefinitions.pdf'>Fire Regime Condition Class Definition</a><br><a href='http://www.blm.gov/pgdata/etc/medialib/blm/mt/blm_programs/fire/lfo.Par.57259.File.dat/AppendixI.pdf'>Fire Regime Condition Class Examples</a>",
+        "style": {
+        	"units": "%",
+            "breaks": [
+                0,
+                30,
+                60
+            ],
+            "colors": [
+                "#D8F2ED",
+                "#2ca79e",
+                "#154F4A"
+            ]
+        }
+    },
+    "CC2PCT": {
+        "db": "CC2PCT",
+        "field": "CC2PCT",
+        "category": "fireconditionclasses",
+        "title": "% Coverage Fire Condition Class 2",
+        "description": "Percentage coverage of HUC defined as Fire Condition Class 2",
+        "importance": "Fire condition class is an important metric when accounting for forest and watershed health. Stand replacing forest fires can can have a transformative effect on habitat, water quality and natural resources.",
+        "tech_notes": "The data for used for this indicator was generated soley for proof of concept purposes and does not represent ground conditions.",
+        "source": "<strong>Source: No Source Data - Proof of concept purposes only.</strong>",
+        "links": "<a href='http://www.nwcg.gov/teams/wfewt/archive/message/FrccDefinitions.pdf'>Fire Regime Condition Class Definition</a><br><a href='http://www.blm.gov/pgdata/etc/medialib/blm/mt/blm_programs/fire/lfo.Par.57259.File.dat/AppendixI.pdf'>Fire Regime Condition Class Examples</a>",
+        "style": {
+            "units": "%",
+            "breaks": [
+                0,
+                30,
+                60
+            ],
+            "colors": [
+                "#D8F2ED",
+                "#2ca79e",
+                "#154F4A"
+            ]
+        }
+    },
+    "CC3PCT": {
+        "db": "CC3PCT",
+        "field": "CC3PCT",
+        "category": "fireconditionclasses",
+        "title": "% Coverage Fire Condition Class 3",
+        "description": "Percentage coverage of HUC defined as Fire Condition Class 3",
+        "importance": "Fire condition class is an important metric when accounting for forest and watershed health. Stand replacing forest fires can can have a transformative effect on habitat, water quality and natural resources.",
+        "tech_notes": "The data for used for this indicator was generated soley for proof of concept purposes and does not represent ground conditions.",
+        "source": "<strong>Source: No Source Data - Proof of concept purposes only.</strong>",
+        "links": "<a href='http://www.nwcg.gov/teams/wfewt/archive/message/FrccDefinitions.pdf'>Fire Regime Condition Class Definition</a><br><a href='http://www.blm.gov/pgdata/etc/medialib/blm/mt/blm_programs/fire/lfo.Par.57259.File.dat/AppendixI.pdf'>Fire Regime Condition Class Examples</a>",
+        "style": {
+            "breaks": [
+                0,
+                30,
+                60
+            ],
+            "colors": [
+                "#D8F2ED",
+                "#2ca79e",
+                "#154F4A"
+            ]
+        }
+    }
+}
